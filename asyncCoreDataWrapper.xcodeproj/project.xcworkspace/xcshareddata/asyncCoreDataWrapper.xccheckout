@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>437377EC-47AA-4F3C-BD0D-4A95DF6FDA0A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>asyncCoreDataWrapper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AAD4825EF5A94DFD7C3F9D8C66E8E12518474173</key>
+		<string>https://github.com/ipconfiger/asyncCoreDataWrapper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>asyncCoreDataWrapper/asyncCoreDataWrapper.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AAD4825EF5A94DFD7C3F9D8C66E8E12518474173</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ipconfiger/asyncCoreDataWrapper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AAD4825EF5A94DFD7C3F9D8C66E8E12518474173</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AAD4825EF5A94DFD7C3F9D8C66E8E12518474173</string>
+			<key>IDESourceControlWCCName</key>
+			<string>asyncCoreDataWrapper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
